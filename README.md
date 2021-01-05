@@ -1,0 +1,1 @@
+A python script for calculating how much of the estate should every creditor receive if the debtor's estate size is not enough to fully cover every creditor's claim, as described in [this article](https://mindyourdecisions.com/blog/2008/06/10/how-game-theory-solved-a-religious-mystery/).
